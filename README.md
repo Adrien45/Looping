@@ -21,9 +21,9 @@ Looping is an After Effects plugin that simplifies creating seamless loops in an
 
 Contributors names and contact info
 
-Adrien -  Dev
-Fabio - Tests
-Atelier BMP -  More tests and fedbacks
+Adrien -  Dev  
+Fabio - Tests  
+Atelier BMP -  More tests and fedbacks  
 
 ## Version History
 

@@ -17,13 +17,15 @@ Looping is an After Effects plugin that simplifies creating seamless loops in an
 * Restart After Effects.
 * Open the panel by going to Window > ScriptUI Panels > Looping.
 
-## Authors
-
-Contributors names and contact info
+## Authors & contributors
 
 Adrien -  Dev  
 Fabio - Tests  
 Atelier BMP -  More tests and fedbacks  
+
+## Road Map
+
+* Add language detection at least for french and english.
 
 ## Version History
 

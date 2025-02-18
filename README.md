@@ -26,6 +26,7 @@ Atelier BMP -  More tests and fedbacks
 ## Road Map
 
 * Add language detection at least for french and english.
+* Refine UI.
 
 ## Version History
 

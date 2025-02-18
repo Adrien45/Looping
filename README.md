@@ -11,9 +11,9 @@ Looping is an After Effects plugin that simplifies creating seamless loops in an
 ### Installing
 
 * Download the .zip file and extract it.
-* Copy the .jsx file to your After Effects ScriptUI Panels folder.
-  Windows: C:\Program Files\Adobe\Adobe After Effects [Version]\Support Files\ScriptUI Panels
-  Mac: /Applications/Adobe After Effects [Version]/Scripts/ScriptUI Panels
+* Copy the .jsx file to your After Effects ScriptUI Panels folder.  
+  Windows: C:\Program Files\Adobe\Adobe After Effects [Version]\Support Files\ScriptUI Panels  
+  Mac: /Applications/Adobe After Effects [Version]/Scripts/ScriptUI Panels  
 * Restart After Effects.
 * Open the panel by going to Window > ScriptUI Panels > Looping.
 
@@ -21,8 +21,9 @@ Looping is an After Effects plugin that simplifies creating seamless loops in an
 
 Contributors names and contact info
 
-Adrien at boutiquegraphics.ch
-www.boutiquegraphics.ch
+Adrien -  Dev
+Fabio - Tests
+Atelier BMP -  More tests and fedbacks
 
 ## Version History
 

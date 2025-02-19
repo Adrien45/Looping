@@ -1,6 +1,4 @@
-# Looping
-
-A looper UI Panel for After Effects.
+![Loopinp - Make animation loops, but way quicker.](https://github.com/Adrien45/Looping/blob/main/looping_pic.png)
 
 ## Description
 

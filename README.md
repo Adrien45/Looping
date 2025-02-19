@@ -27,6 +27,7 @@ Atelier BMP -  More tests and fedbacks
 
 * Add language detection at least for french and english.
 * Refine UI.
+* Switch between LoopOut and LoopIn
 
 ## Version History
 

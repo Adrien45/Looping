@@ -38,4 +38,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Note
 
-This plugin was created for the Associsation St-Camille.
+This plugin was created for the Association St-Camille.
